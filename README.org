@@ -1,0 +1,77 @@
+#+TITLE: Button2Beehiiv
+#+AUTHOR: @jayascript
+#+DESCRIPTION: AI-powered newsletter generation pipeline.
+
+* Button2Beehiiv
+An *automated content pipeline* that transforms a single button press into a newsletter ready for syndication 🚀
+
+The system uses *multiple AI agents*, each specialized for a different task, orchestrated by a human Operator to produce high-quality, personality-driven newsletters.
+
+Currently In Development:
+- *Homelab Highlights:* a weekly roundup for the self-hosting and homelab community
+- *The Nomad Nurses Dispatch:* a weekly newsletter for travel nurses
+
+* Workflow
+** v1: Newsletter Generation
+| Step                      | Agent               | Input                                      | Output              |
+|---------------------------+---------------------+--------------------------------------------+---------------------|
+| Identify target audience  | Market Research     | Publication                                | Audience Snapshot   |
+| Identify trending stories | Research Analyst    | Publication + Audience Snapshot            | Top Stories         |
+| Generate newsletter       | Writing Assistant   | Publication + Snapshot + Stories + Persona | Draft Newsletter    |
+| Finalize newsletter       | Editorial Assistant | same as above + Draft Newsletter           | Final Newsletter    |
+| Publish newsletter        | Admin Assistant     | Final Newsletter + HTML Template           | Published 2 Beehiiv |
+
+** v2: YouTube Script Generation
+| Step                        | Agent                | Input                                   | Output              |
+|-----------------------------+----------------------+-----------------------------------------+---------------------|
+| Publish newsletter          | ...                  | ...                                     | Published 2 Beehiiv |
+| Identify influential videos | Competitor Analyst   | Published 2 Beehiiv + Audience Snapshot | Competitor Analysis |
+| Suggest 5 fresh takes       | Marketing Analyst    | Audience Snapshot + Competitor Analysis | Production Brief    |
+| Generate script             | Writing Assistant    | Competitor Analysis + Production Brief  | Video Script        |
+| Finalize script             | Marketing Assistant  | Video Script + Competitor Analysis      | YouTube Script      |
+| Generate video              | Production Assistant | YouTube Script + Competitor Analysis    | YouTube Video       |
+| Publish video               | Admin Assistant      | YouTube Script + YouTube Video | Published 2 YouTube |
+
+* Project Status
+** PROG 🟡 Phase 1: Architecture & Prompt Engineering 
+- State "PROG"       from "PROJ"       [2026-01-18 Sun 17:49]
+*** DONE Define publication configuration schema
+- State "DONE"       from "TODO"       [2026-01-18 Sun 17:49]
+*** DONE Define persona/voice schema
+- State "DONE"       from "TODO"       [2026-01-18 Sun 17:49]
+*** NEXT Define necessary integrations
+*** TODO Craft system messages for prompt chain
+*** TODO Run prompt chain end-to-end
+*** TODO Test and refine prompt chain
+** PROJ Phase 2: UI/UX Design & Syndication
+*** TODO Create Beehiiv publications
+*** TODO Import generated newsletter into Beehiiv
+*** TODO Test and refine UI
+*** TODO Send test emails
+*** TODO Test and refine UX
+
+* Tech Stack
+** LangFlow
+Visual workflow builder
+** Composio
+Simplified API integration
+** Beehiiv
+Quick & easy newsletter platform
+** Emacs/Org-mode
+Documentation and prompt chain management
+
+* Local Development
+** Requirements
+- OpenRouter API Key
+- LangFlow
+* Philosophy
+** Wisdom Before Workflows
+- Every component should be documented.
+- Workflow must be able to be run *manually* without automation.
+** Personality Over Polish
+- Content should be thoughtful, engaging, and human-coded.
+- Devs are encouraged to add some personality to the newsletters, within reason.
+** Iterate and Improve
+- Ship /something./ Quick, while no one's watching!
+- Fix it later. (Probably no one will even notice.)
+* License
