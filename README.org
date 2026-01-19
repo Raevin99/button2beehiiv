@@ -75,3 +75,4 @@ Documentation and prompt chain management
 - Ship /something./ Quick, while no one's watching!
 - Fix it later. (Probably no one will even notice.)
 * License
+Source code in this repository is made available under the MIT License.
